@@ -1,4 +1,4 @@
-# GastroZO — AI-assisted Stool Characterization & Gut Risk Triage  
+# GastroZO — AI-assisted Stool Characterization and Gut Risk Triage  
 **AI x MedTech: Startup Hackathon & Cohort 2025**
 
 GastroZO is a research-oriented AI clinical decision support (CDS) prototype designed to standardize stool characterization using patient-provided stool images and symptom context. It outputs a Bristol stool type prediction, visual indicators (color/abnormality flags), and an interpretable triage risk level (Green / Amber / Red). The system further generates a clinician-ready structured summary to improve telemedicine decision-making, reduce subjective reporting errors, and support safer follow-up monitoring.
